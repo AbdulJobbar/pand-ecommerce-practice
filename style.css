@@ -1,0 +1,11 @@
+.bg-custom {
+    background-color: #fceae8;
+}
+
+.button-color {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.catagory img {
+    width: 100px;
+}
